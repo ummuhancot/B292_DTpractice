@@ -24,6 +24,19 @@ public class C03_forloop {
 
 
 
-    }//kendi olusturduğumuz hesap makinesine güncelleme olarak ekleyelim  ÖDEV!!1
+
+
+
+
+
+
+    }
+
+
+    //kendi olusturduğumuz hesap makinesine güncelleme olarak ekleyelim  ÖDEV!!1
+
+
+
+
 
 }
